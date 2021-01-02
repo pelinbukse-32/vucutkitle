@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Kilo">Kilo(kg)</string>
+    <string name="Durum">Durum</string>
+    <string name="Kadın">Kadın</string>
+    <string name="Erkek">Erkek</string>
+    <string name="Zayıf">zayif</string>
+    <string name="normal_kilo">normalkilo</string>
+    <string name="obez">Obez</string>
+    <string name="obez3">Üçüncü Derece Obez</string>
+    <string name="normalden_fazla">Normal Kilodan Fazla</string>
+</resources>

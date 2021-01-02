@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">vucutkitleindeksi</string>
+    <string name="vucutkitleindeksi">Vücut Kitle İndeksi</string>
+    <string name="Boy">Boy(m)</string>
+    <string name="Kilo">Kilo(kg)</string>
+    <string name="Cinsiyet">Cinsiyet</string>
+    <string name="İdeal_Kilo">İdeal Kilo</string>
+    <string name="Durum">Durum</string>
+    <string name="Kadın">Kadın</string>
+    <string name="Erkek">Erkek</string>
+    <string name="Zayıf">Zayıf</string>
+    <string name="normal_kilo">Normal Kilo</string>
+    <string name="normalden_fazla">Normal Kilodan Fazla</string>
+    <string name="fazla_kilo">Fazla Kilo</string>
+    <string name="obez">Birinci Derecede Obez</string>
+    <string name="obez2">İkinci Derecede Obez</string>
+    <string name="obez3">Üçüncü Derecede Obez</string>
+</resources>
